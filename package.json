@@ -1,0 +1,23 @@
+{
+  "name": "themeco-cce",
+  "version": "1.0.0",
+  "description": "A package to create Themeco's visual editor family custom elements",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gilvdk/themeco-cce.git"
+  },
+  "keywords": [
+    "Themeco",
+    "elements"
+  ],
+  "author": "Gil Vanderkluysen, Blacktiki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gilvdk/themeco-cce/issues"
+  },
+  "homepage": "https://github.com/gilvdk/themeco-cce#readme"
+}
